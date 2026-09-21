@@ -21,6 +21,7 @@ The app displays the current day and month in a pixel-art inspired interface.
 - CSS
 - JavaScript
 - Electron
+- Figma
 
 ## 🎨 Design
 
